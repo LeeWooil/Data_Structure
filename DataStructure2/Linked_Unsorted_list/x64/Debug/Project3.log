@@ -1,0 +1,10 @@
+﻿  main.cpp
+C:\Users\admin\Desktop\wooil\2023 2학기\자료 구조\Project1\Project3\Linked_unsorted_list.h(91,8): warning C4552: '-': 식의 결과가 사용되지 않습니다.
+C:\Users\admin\Desktop\wooil\2023 2학기\자료 구조\Project1\Project3\Linked_unsorted_list.h(87,1): message : 클래스 템플릿 멤버 함수 'void UnsortedType<int>::RetrieveItem(T &,bool &)'을(를) 컴파일하는 중입니다.
+          with
+          [
+              T=int
+          ]
+C:\Users\admin\Desktop\wooil\2023 2학기\자료 구조\Project1\Project3\main.cpp(17,22): message : 'main'에서 'UnsortedType<int>::RetrieveItem'에 대한 첫 번째 참조를 확인하세요.
+C:\Users\admin\Desktop\wooil\2023 2학기\자료 구조\Project1\Project3\main.cpp(6,20): message : 컴파일되는 클래스 템플릿 인스턴스화 'UnsortedType<int>'에 대한 참조를 확인하세요.
+  Project3.vcxproj -> C:\Users\admin\Desktop\wooil\2023 2학기\자료 구조\Project1\x64\Debug\Project3.exe
